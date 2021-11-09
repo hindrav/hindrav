@@ -15,11 +15,10 @@ I love to design strategies for specific business needs and look for mathematica
 
 🔹 One of the most liked cores by myself are analyzing data, normalizing, structuring and debugging huge databases -> focusing on good practices, getting specific information and representing it visually.
 
+🔹 Read more about me through my web portfolio: https://hindrav.com/, i'm looking for a good team to work as a front-end developer.
+
+
 ## Get in a touch:
 
 🔸 WhatsApp: https://walink.co/015897
-
-🔸 Portfolio: https://hindrav.com/
-
-🔸 Twitter: https://twitter.com/hindrav_/
 
