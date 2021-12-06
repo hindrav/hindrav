@@ -6,14 +6,11 @@
 
 ## About me
 
-I am a results-oriented frontend engineer doing data science for the financial sector.
-I seek to keep myself in constant growth and multidisciplinary training.
-
-I also develop automation projects and comprehensive applications for medium and big companies. I love to design strategies for specific business needs and look for mathematical solutions to solve problems.
+I am a results-oriented frontend developer holding a position as a data scientist trainee for the financial sector. I also develop automation projects and comprehensive applications for medium and big companies.
 
 🔹 I develop software that perfectly adapts to your business needs.
 
-🔹 I'm able to lead, actually i'm looking for a good team to work as a data scientist trainee or frontend dev.
+🔹 I'm able to lead, i have some product owner skills.
 
 🔹 One of the most liked activities to do for me are analyzing data, i really enjoy the process of normalizing, structuring, debugging huge databases, get specific information and then representing it visually, always trying to keep the good practices.
 
