@@ -6,7 +6,7 @@
 
 ## Te invito a conocerme.
 
-Científico de datos y desarrollador frontend orientado a resultados que busca mantenerse en crecimiento constante.
+Ingeniero de datos y desarrollador frontend orientado a resultados que busca mantenerse en crecimiento constante.
 
 🔹Automatizo procesos tanto como sea posible.
 
