@@ -2,20 +2,18 @@
 <!--
 ![banner](https://scontent.fmex22-1.fna.fbcdn.net/v/t1.15752-9/198774788_2927981837521160_8688981573201481476_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_ohc=K3ZE98t3R_AAX-a2s__&_nc_ht=scontent.fmex22-1.fna&oh=624310e5e79ed3da262b62287c0faf03&oe=60E5A3CA)-->
 
-# Hi! 👋🏼 i'm Hindra.
+# Hola! 👋🏼 Soy Hindra.
 
-## About me
+## Te invito a conocerme.
 
-I am a results-oriented frontend developer holding a position as a data scientist trainee for the financial sector. I also develop automation projects and comprehensive applications for medium and big companies.
+Científico de datos y desarrollador frontend orientado a resultados que busca mantenerse en crecimiento constante.
 
-🔹 I develop software that perfectly adapts to your business needs.
+🔹Automatizo procesos tanto como sea posible.
+🔹Desarrollo software que permita resolver problemas, así como atender y beneficiar necesidades específicas de negocio.
+🔹Diseño soluciones matemático-tecnológicas de forma estratégica.
+🔹Me encanta laborar con marcos de trabajo ágiles, me considero capaz de liderar equipos de ingeniería.
+🔹Apasionado por el minimalísmo y la simplicidad, protector de UX / UI.
+🔹Me gusta tomar decisiones basadas en datos concretos.
 
-🔹 I'm able to lead, i have some product owner skills.
-
-🔹 One of the most liked activities to do for me are analyzing data, i really enjoy the process of normalizing, structuring, debugging huge databases, get specific information and then representing it visually, always trying to keep the good practices.
-
-🔹 Read more about me through my web portfolio: https://hindrav.com/.
-
-GET IN A TOUCH
-
+## Contacto directo
 🔸 WhatsApp: https://walink.co/015897
