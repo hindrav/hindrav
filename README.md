@@ -6,9 +6,9 @@
 
 ## Te invito a conocerme.
 
-Ingeniero de datos y desarrollador frontend orientado a resultados que busca mantenerse en crecimiento constante.
+Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento constante.
 
-🔹Automatizo procesos tanto como sea posible.
+🔹Automatizo procesos y flujos de negocio.
 
 🔹Desarrollo software que permita resolver problemas, así como atender y beneficiar necesidades específicas de negocio.
 
@@ -16,9 +16,13 @@ Ingeniero de datos y desarrollador frontend orientado a resultados que busca man
 
 🔹Me encanta laborar con marcos de trabajo ágiles, me considero capaz de liderar equipos de ingeniería.
 
-🔹Apasionado por el minimalísmo y la simplicidad, protector de UX / UI.
+🔹Apasionado por el minimalísmo y la simplicidad UX / UI.
 
 🔹Me gusta tomar decisiones basadas en datos concretos.
 
 ## Contacto directo
+
 🔸 WhatsApp: https://walink.co/015897
+
+🔸 Web: https://hindrav.com
+
