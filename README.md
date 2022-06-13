@@ -10,7 +10,7 @@ Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento co
 
 🔹Automatizo procesos y flujos de negocio.
 
-🔹Desarrollo software que permita resolver problemas, así como atender y beneficiar necesidades específicas de negocio.
+🔹Desarrollo software que permita resolver problemas, así como atender y beneficiar necesidades específicas de negocio (Fullstack)
 
 🔹Diseño soluciones matemático-tecnológicas de forma estratégica.
 
