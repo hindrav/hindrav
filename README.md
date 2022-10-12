@@ -6,6 +6,8 @@
 
 ## Te invito a conocerme.
 
+🟩⬜🟥 Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento constante.
+
 Experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámicos. Bien versado en lenguajes de programación como Python y JavaScript/TypeScript, Swift en próxima preparación. 
 
 🚀 Sólida experiencia tanto en Finanzas/Recursos Humanos como en desarrollo de software. Mitigué la brecha entre los usuarios finales y los desarrolladores, codiseñé y construí soluciones escalables.
