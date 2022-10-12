@@ -25,5 +25,5 @@ Experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámi
 🔋Me considero una persona capaz de experimentar y expresar sus emociones, franco, cálido, amable, seguro de mis propias capacidades y resiliente al estrés.
 Sostengo firmemente la creencia de que un profesional no se define por sus conocimientos sino por su capacidad y ganas de continuar aprendiendo nuevas cosas. 
 
-ℹ Te invito a visitar mi portafolio web: https://hindrav.com
+ℹ Portafolio web: https://hindrav.com
 
