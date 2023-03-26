@@ -6,26 +6,17 @@
 
 ## Te invito a conocerme.
 
-🟩⬜🟥 Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento constante.
+Hola! 👋🏼 ¡Mi nombre es Hindra Estrada!
 
-Experiencia en todas las etapas del ciclo de desarrollo de proyectos web dinámicos. Bien versado en lenguajes de programación como Python y JavaScript/TypeScript, Swift en próxima preparación. 
+🎯Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento constante.
 
-🚀 Sólida experiencia tanto en Finanzas/Recursos Humanos como en desarrollo de software. Mitigué la brecha entre los usuarios finales y los desarrolladores, codiseñé y construí soluciones escalables.
+🚀 Experiencia en todas las etapas del ciclo de desarrollo de proyectos, finanzas y recursos humanos. 
 
-🔹Automatizo procesos y flujos de negocio.
+👩🏻‍💻Mitigué la brecha entre los usuarios finales y los desarrolladores, codiseñé y construí soluciones escalables.
 
-🔹Desarrollo software que permita resolver necesidades estratégicas de negocio.
-
-🔹Lídero equipos de ingeniería, gestiono las tecnologías con las que se debe desarrollar una solución / proyecto.
-
-🔹Laboro con marcos de trabajo ágiles.
-
-🔹Analizó grandes cantidades de información y construyó dashboards que permitan entender resultados y tomar decisiones basadas en datos.
-
-🔹Liderazgo constructivo / directivo.
+Bien versado en lenguajes de programación como Python y JavaScript/TypeScript.
 
 🔋Me considero una persona capaz de experimentar y expresar sus emociones, franco, cálido, amable, seguro de mis propias capacidades y resiliente al estrés.
-Sostengo firmemente la creencia de que un profesional no se define por sus conocimientos sino por su capacidad y ganas de continuar aprendiendo nuevas cosas. 
 
 ℹ Portafolio web: https://hindrav.com
 
