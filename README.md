@@ -6,8 +6,6 @@
 
 ## Te invito a conocerme.
 
-Hola! 👋🏼 ¡Mi nombre es Hindra Estrada!
-
 🎯Ingeniero mexicano orientado a resultados que busca mantenerse en crecimiento constante.
 
 🚀 Experiencia en todas las etapas del ciclo de desarrollo de proyectos, finanzas y recursos humanos. 
