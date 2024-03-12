@@ -1,0 +1,46 @@
+@import "../../../assets/scss/main.scss";
+
+.footer{
+    padding: 5rem 0;
+    &-header{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        & p{
+            color: $text-gray;
+            font-size: 1.2rem;
+            font-weight: 900;
+            text-transform: uppercase;
+
+        }
+        &-icons{
+            margin: 1rem 0;
+            & span{
+                color: $text-gray;
+                font-size: 3rem;
+                padding: 0 1rem;
+            }
+        }
+    }
+    &-body{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        & svg{
+            color: $text-gray;
+            font-size: 4rem;
+            border-right: .1rem solid rgb(110, 110, 110);
+            margin-right: 1rem;
+            padding-right: 1rem;
+        }
+        & a{
+            font-size: 1.3rem;
+            color: white;
+            font-weight: 700;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+    }
+}

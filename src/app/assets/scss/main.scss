@@ -1,0 +1,31 @@
+@import "./variables";
+@import "./mixins";
+@import "./typography";
+@import "./components";
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+.bg-light {
+    background-color: white !important;
+}
+.color-light{
+    color: $dark !important;
+}
+.bg-dark{
+    background-color: $dark !important;
+}
+.color-dark{
+    color: white !important;
+}
+.bg-light-2{
+    background-color: $blue !important;
+}

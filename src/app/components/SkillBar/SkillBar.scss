@@ -1,0 +1,53 @@
+@import "../../assets/scss/main.scss";
+
+.sb{
+    margin: 2rem 0;
+    &-header{
+        display: flex;
+        justify-content: space-between;
+        & span{
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: $text-gray;
+        }
+    }
+    &-bar{
+        position: relative;
+        background-color: $gray;
+        overflow: hidden;
+        width: 100%;
+        height: 1rem;
+        &-progress{
+            background-color: $blue;
+            height: 1rem;
+        }
+    }
+}
+
+@include bp-tab{
+    .sb{
+        &-header{
+            & span{
+                font-size: 1.7rem;
+            }
+        }
+        &-bar{
+            position: relative;
+            background-color: $gray;
+            overflow: hidden;
+            width: 100%;
+            height: 1rem;
+            &-progress{
+                background-color: $blue;
+                height: 1rem;
+            }
+        }
+    }
+}
+
+@include bp-lap{
+    .sb{
+        width: 60rem;
+        margin-right: 5rem;
+    }
+}

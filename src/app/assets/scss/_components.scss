@@ -1,0 +1,19 @@
+.span-title {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-bottom: 1rem;
+  color: $text-gray;
+}
+
+@include bp-tab{
+  .span-title{
+    font-size: 1.4rem;
+  }
+}
+
+@include bp-lap{
+  .span-title{
+    margin: 4rem 0;
+  }
+}

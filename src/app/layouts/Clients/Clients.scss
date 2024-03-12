@@ -1,0 +1,27 @@
+@import "../../assets/scss/main.scss";
+
+.clients{
+    margin: 0 auto;
+    padding: 3rem 0;
+    width: 29rem;
+    &-container{
+        max-width: 120rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@include bp-tab{
+    .clients{
+        width: 100%;
+        display: grid;
+        place-items: center;
+        &-container{
+            width: 100%;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
