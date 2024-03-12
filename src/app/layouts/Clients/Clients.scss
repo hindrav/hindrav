@@ -1,27 +1,37 @@
 @import "../../assets/scss/main.scss";
 
-.clients{
-    margin: 0 auto;
-    padding: 3rem 0;
+.clients {
+  margin: 0 auto;
+  padding: 3rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  &-container {
     width: 29rem;
-    &-container{
-        max-width: 120rem;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+    max-width: 120rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .span-title {
+    width: 29rem;
+  }
 }
 
-@include bp-tab{
-    .clients{
-        width: 100%;
-        display: grid;
-        place-items: center;
-        &-container{
-            width: 100%;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-        }
+@include bp-tab {
+  .clients {
+    width: 100%;
+    display: grid;
+    place-items: center;
+    &-container {
+      width: 100%;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
     }
+    .span-title {
+      width: 100%;
+      text-align: center;
+    }
+  }
 }

@@ -2,7 +2,7 @@
 
 ## About me.
 
-🎯 With over 6 years of experience, I have led software development projects through all stages, from conception to final delivery.{" "}
+🎯 With over 6 years of experience, I have led software development projects through all stages, from conception to final delivery.
 Specializing in web and mobile development, my results-oriented approach and expertise in agile methodologies ensure successful project delivery efficiently and effectively.
 
 🚀 I am adaptable and capable of facing new challenges with confidence and determination.

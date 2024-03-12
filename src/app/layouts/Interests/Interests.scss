@@ -3,15 +3,18 @@
 .interests {
   display: flex;
   flex-direction: column;
-  width: 29rem;
-  margin: 0 auto;
+  align-items: center;
   padding-bottom: 3rem;
   &-container {
+    width: 29rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+  }
+  .span-title{
+    width: 29rem;
   }
 }
 
