@@ -34,3 +34,12 @@ export interface ModeState{
 export interface RootState {
   colorMode: ModeState;
 }
+
+export interface BasicModalProps {
+  open: boolean,
+  onClose: () => void,
+  title: string,
+  text: string,
+  urlOne: string,
+  urlTwo: string,
+}
