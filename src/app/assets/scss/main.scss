@@ -3,29 +3,43 @@
 @import "./typography";
 @import "./components";
 
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
 
-body{
+body, html {
+    height: 100vh;
     margin: 0;
+    padding: 0;
 }
 
-*, *::before, *::after{
-    box-sizing: border-box;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 .bg-light {
-    background-color: white !important;
+  background-color: white !important;
 }
-.color-light{
-    color: $dark !important;
+.color-light {
+  color: $dark !important;
 }
-.bg-dark{
-    background-color: $dark !important;
+.bg-dark {
+  background-color: $dark !important;
 }
-.color-dark{
-    color: white !important;
+.color-dark {
+  color: white !important;
 }
-.bg-light-2{
-    background-color: $blue !important;
+.bg-light-2 {
+  background-color: $blue !important;
+}
+
+body {
+  background-color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $dark;
+  }
 }
