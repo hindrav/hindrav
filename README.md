@@ -1,20 +1,13 @@
-<!--
-![banner](https://scontent.fmex22-1.fna.fbcdn.net/v/t1.15752-9/198774788_2927981837521160_8688981573201481476_n.png?_nc_cat=110&ccb=1-3&_nc_sid=ae9488&_nc_ohc=K3ZE98t3R_AAX-a2s__&_nc_ht=scontent.fmex22-1.fna&oh=624310e5e79ed3da262b62287c0faf03&oe=60E5A3CA)-->
-
-# Hi! 👋🏼 I'm Hindra Estrada   [ENG]
+# Hi! 👋🏼 I'm Hindra Estrada
 
 ## About me.
 
-🎯 I'm a Mexican engineer and results-oriented software developer who aims to maintain constant growth.
+🎯 With over 6 years of experience, I have led software development projects through all stages, from conception to final delivery.{" "}
+Specializing in web and mobile development, my results-oriented approach and expertise in agile methodologies ensure successful project delivery efficiently and effectively.
 
-🚀 I have experience in all stages of project development (web, mobile, business), finance, and human resources.
+🚀 I am adaptable and capable of facing new challenges with confidence and determination.
+My ability to learn quickly and adapt to changing environments allows me to stay up-to-date with the latest technologies and best practices in the industry.
 
-♻️ I bridged the gap between end-users and developers, co-designed and built scalable solutions.
+🔋 I consider myself capable of experiencing and expressing my emotions, candid, warm, friendly, confident in my abilities, and resilient to stress. Accustomed to demanding challenges.
 
-🧑🏻‍💻 I lead developer teams with diverse stacks.
-
-⚙️ Well-versed in programming languages like Python and JavaScript/TypeScript.
-
-🔋 I consider myself capable of experiencing and expressing my emotions, candid, warm, kind, confident in my own abilities, and resilient to stress. Accustomed to a dynamic work pace with challenging tasks.
-
-💼 I invite you to visit my web portfolio: https://hindrav.com
+### Web portfolio: https://hindrav.com
