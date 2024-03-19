@@ -4,7 +4,7 @@ import { GitHub, Instagram, KeyboardArrowDownOutlined, LinkedIn, WhatsApp } from
 
 import { RootState } from "app/interfaces";
 import { switchBg, switchColor } from "app/utils/constants";
-import profilePicture from "app/assets/images/profile.jpeg";
+import profilePicture from "app/assets/images/profile.png";
 import "./Hero.scss";
 
 const Hero = () => {

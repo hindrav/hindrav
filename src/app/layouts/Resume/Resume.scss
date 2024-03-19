@@ -13,6 +13,8 @@
     height: 100%;
   }
   &-text {
+    padding: 0 1rem;
+
     & h2 {
       font-size: 2rem;
       font-weight: 900;
@@ -35,9 +37,10 @@
     }
   }
   &-skills {
-    padding: 3rem 0;
+    padding: 3rem 1rem;
   }
   &-xp {
+    padding: 0 1rem;
     &-actions {
       display: grid;
       place-items: center;
@@ -79,7 +82,7 @@
   }
 }
 
-@include bp-lap{
+@include bp-lap {
   .resume {
     &-container {
       display: flex;
@@ -90,7 +93,7 @@
     }
     &-text {
       width: 120rem;
-      &-container{
+      &-container {
         display: flex;
         flex-direction: row;
       }
@@ -111,27 +114,26 @@
         }
       }
     }
-    &-skills{
+    &-skills {
       width: 120rem;
-      &-container{
+      &-container {
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
         align-items: start;
       }
     }
-    &-xp{
+    &-xp {
       padding-top: 5rem;
       width: 120rem;
-      &-container{
+      &-container {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
       }
-      &-actions{
+      &-actions {
         padding-bottom: 5rem;
       }
     }
-
   }
 }

@@ -8,7 +8,6 @@ import p1 from "app/assets/images/p1.png";
 import p2 from "app/assets/images/fbh.png";
 import p3 from "app/assets/images/rickandmorty.png";
 import "./Portfolio.scss";
-import { BasicModal } from "app/components/BasicModal/BasicModal";
 
 const Portfolio = () => {
   const mode = useSelector((state: RootState) => state.colorMode.mode);

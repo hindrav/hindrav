@@ -1,75 +1,76 @@
 @import "../../assets/scss/main.scss";
 
-.pi{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 10rem;
-    &-header{
-        width: 30rem;
-        text-align: center;
-        & h4{
-            font-size: 2.4rem;
-            font-weight: 900;
-            margin: 1rem 0;
-        }
-        & p{
-            color: $text-gray;
-            font-size: 1.5rem;
-            line-height: 3rem;
-            max-width: 45rem;
-            margin: 0;
-        }
-
-        & button{
-            font-size: 1.5rem;
-            font-weight: 900;
-            margin-top: 3rem;
-            background-color: $blue;
-        }
-
-        & a{
-            text-decoration: none;
-            color: white !important;
-        }
+.pi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10rem;
+  &-header {
+    width: 30rem;
+    text-align: center;
+    & h4 {
+      font-size: 2.4rem;
+      font-weight: 900;
+      margin: 1rem 0;
     }
-    &-body{
-        width: 30rem;
-        margin: 5rem 0;
-        & img{
-            width: 100%;
-        }
+    & p {
+      color: $text-gray;
+      font-size: 1.5rem;
+      line-height: 3rem;
+      max-width: 45rem;
+      margin: 0;
+      padding: 0 1rem;
     }
+
+    & button {
+      font-size: 1.5rem;
+      font-weight: 900;
+      margin-top: 3rem;
+      background-color: $blue;
+    }
+
+    & a {
+      text-decoration: none;
+      color: white !important;
+    }
+  }
+  &-body {
+    width: 30rem;
+    margin: 5rem 0;
+    & img {
+      width: 100%;
+    }
+  }
 }
 
-@include bp-tab{
-    .pi{
-        &-header{
-            width: 38rem;
-            & h4{
-                font-size: 2.7rem;
-            }
-            & p{
-                font-size: 1.7rem;
-            }
-        }
-        &-body{
-            width: 40rem;
-            & img{
-                width: 100%;
-            }
-        }
+@include bp-tab {
+  .pi {
+    &-header {
+      width: 38rem;
+      & h4 {
+        font-size: 2.7rem;
+      }
+      & p {
+        font-size: 1.7rem;
+      }
     }
+    &-body {
+      width: 40rem;
+      & img {
+        width: 100%;
+      }
+    }
+  }
 }
 
-@include bp-lap{
-    .pi{
-        flex-direction: row;
-        justify-content: space-evenly;
-        &-header{
-            text-align: left;
-            margin-left: 5rem;
-        }
+@include bp-lap {
+  .pi {
+    flex-direction: row;
+    justify-content: space-evenly;
+    &-header {
+      text-align: left;
+      margin-left: 5rem;
     }
+  }
 }
