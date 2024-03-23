@@ -35,7 +35,7 @@ const Portfolio = () => {
           title="Rick and Morty Characters"
           description="Platform created for educational purposes, consumes the official Rick and Morty API, made with ReactJS and Redux."
           projectUrl="https://rickandmorty-api-react.web.app"
-          imageUrl={p3}
+          imageUrl="https://blogger.googleusercontent.com/img/a/AVvXsEge5z_lQhaBSBStvHIZoiPpL_eseO5_x72-UyVboZe0L0fws6AZcpp47ijmihdtlDFKgjMDuFa5IzbyDCcfVhLhTkdgmQHuRaCeCuqwxVCCNf2oHVcLzddSrirn0ky8IXZz3qOEW7PiUn2_ruZ-BfLzuREW54L7ZJhkugw2eHx496X-sVtO_SfM4WCCLw=w523-h640"
         />
       </div>
     </div>
