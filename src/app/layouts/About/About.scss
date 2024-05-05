@@ -1,0 +1,70 @@
+@import "../../assets/scss/main.scss";
+
+.about{
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    padding: 10rem 0 15rem 0;
+    &-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        min-height: fit-content;
+        height: 100%;
+        padding: 0 2rem;
+
+        & h2{
+            font-size: 3rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+    }
+    &-item{
+        display: flex;
+        flex-direction: column;
+        margin: 2rem 0;
+        & p{
+            color: white;
+            font-size: 1.7rem;
+            margin: 1rem 0;
+
+            & svg{
+                font-size: 2.5rem;
+                margin-right: 1rem;
+                color: $primary;
+            }
+        }
+        &__desc{
+            display: flex;
+            flex-direction: column;
+            gap: 5rem;
+            max-width: 50rem;
+            padding: 1rem;
+            margin: 3rem 0;
+            & p{
+                color: white;
+                font-size: 1.7rem;
+                line-height: 2.7rem;
+                padding: 0 1rem;
+                text-align: justify;
+                & svg{
+                    font-size: 2.5rem;
+                    color: $primary;
+                    margin-right: 1rem;
+                }
+            }
+        }
+    }
+}
+
+@include bp-lap{
+    .about{
+        &-box{
+            display: flex;
+        }
+    }
+}

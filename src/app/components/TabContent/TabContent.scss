@@ -1,0 +1,18 @@
+@import "../../assets/scss/main.scss";
+
+.cc{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+    background-image: linear-gradient(180deg,#030303,#0a0a0a,#0d1017);
+    &-close{
+        display: grid;
+        place-items: end;
+        & svg{
+            margin: 1rem;
+            color: white;
+            font-size: 2rem;
+        }
+    }
+}

@@ -1,0 +1,36 @@
+@import "../../assets/scss/main.scss";
+
+.skills {
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    padding: 10rem 2rem 15rem 2rem;
+    &-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        min-height: fit-content;
+        height: 100%;
+        padding: 0 2rem;
+        & h2{
+            font-size: 3rem;
+            font-weight: 700;
+            color: white;
+            margin-bottom: 1rem;
+        }
+    }
+    &-box{
+        margin-top: 4rem;
+    }
+}
+
+@include bp-lap {
+    .skills{
+        &-box{
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}
