@@ -1,14 +1,14 @@
 @import "../../assets/scss/main.scss";
 
 .sb{
-    margin: 2rem 0;
+    margin: 3rem 0;
     &-header{
         display: flex;
         justify-content: space-between;
         & span{
-            font-size: 1.3rem;
+            font-size: 1.7rem;
             font-weight: 700;
-            color: $text-gray;
+            color: $light;
         }
     }
     &-bar{
@@ -26,11 +26,6 @@
 
 @include bp-tab{
     .sb{
-        &-header{
-            & span{
-                font-size: 1.7rem;
-            }
-        }
         &-bar{
             position: relative;
             background-color: $gray;
@@ -48,6 +43,6 @@
 @include bp-lap{
     .sb{
         width: 55rem;
-        margin: 2rem 2.5rem;
+        margin: 3rem 2.5rem;
     }
 }

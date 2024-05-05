@@ -11,7 +11,7 @@ const Skills = () => {
           <Box className="skills-row">
             <SkillBar skill={"ReactJS"} progress={90} />
             <SkillBar skill={"React Native"} progress={70} />
-            <SkillBar skill={"Redux / Redux Toolkit / Context "} progress={100} />
+            <SkillBar skill={"Redux / Context "} progress={100} />
             <SkillBar skill={"Javascript / TypeScript"} progress={80} />
             <SkillBar skill={"SCSS / TailwindCSS"} progress={100} />
             <SkillBar skill={"Python"} progress={70} />
